@@ -1,6 +1,5 @@
 ---
-layout: slide
-title: "Welcome to our slide deck!"
+In dem Abschnitt Issue werden Probleme mit dem Projekt geteilt und diskutiert.
 ---
 
-This is the site: Titelseite
+
