@@ -1,7 +1,6 @@
 
 ---
-layout: slide
-title: "Welcome to our slide deck!"
+Bei einem Pull Request werden der bearbeitete Code und das Hauptprojekt zusammengeführt.
 ---
 
-This is the site: Pull Request
+
